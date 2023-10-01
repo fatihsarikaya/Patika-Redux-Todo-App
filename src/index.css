@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  background: url("./bg.jpeg");
+  background-size: cover;
+  height: max-content;
+}
+
+#root {
+  height: max-content;
+}
